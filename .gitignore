@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# GitKraken gitignore
+ElementHunter/Intermediate/
+ElementHunter/Build/
+ElementHunter/.vs/
+ElementHunter/Saved/
+ElementHunter/Plugins/
+ElementHunter/Binaries/
